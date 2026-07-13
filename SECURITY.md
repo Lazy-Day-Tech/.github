@@ -5,7 +5,7 @@
 Please don't open a public issue for a security problem, in any Lazy-Day-Tech repo. Two private routes:
 
 - Where a repo shows a "Report a vulnerability" button under its Security tab, use it. It opens a private advisory only the maintainers can see.
-- Otherwise, reach out to @gbasran or @goldentg on GitHub directly rather than posting anything public.
+- Otherwise, email g_basran@icloud.com or evan@evannorman.ca, or reach out to @gbasran or @goldentg on GitHub directly rather than posting anything public.
 
 Tell us what you found, how to reproduce it, and what an attacker could do with it. A proof-of-concept helps but isn't required.
 
